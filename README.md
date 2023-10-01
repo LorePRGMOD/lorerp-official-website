@@ -1,2 +1,2 @@
 # lorerp-off-website
-Server website
+https://ify.ac/cGR
